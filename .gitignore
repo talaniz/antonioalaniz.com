@@ -1,0 +1,5 @@
+ouput/*
+plugins/*
+themes/*
+__pycache__/*
+*.pid
