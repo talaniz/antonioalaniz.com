@@ -1,4 +1,5 @@
 ouput/*
+output/
 plugins/*
 themes/*
 __pycache__/*
