@@ -3,4 +3,4 @@ Date: 2016-01-31 17:00
 Category: django
 tags: django, python,continuous integration
 
-## Setting up Travis CI for Django
+## Reducing testing times in Django with continuous integration

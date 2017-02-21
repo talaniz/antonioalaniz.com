@@ -4,3 +4,10 @@ plugins/*
 themes/*
 __pycache__/*
 *.pid
+antonioalaniz.sublime-project
+terminal.glue
+antonioalaniz.sublime-workspace
+develop_server.sh
+fabfile.py
+pelicanconf.py
+publishconf.py
