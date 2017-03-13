@@ -2,8 +2,8 @@ Title: About Me
 Date: 2016-01-02
 
 
-I currently work as an operations engineer in the foreign exchange industry. I have studied Python for five years with some experience
-in Ruby, Javascript and C.
+I currently work as an operations engineer in the foreign exchange industry. I have studied Python for five years with some experience in Ruby, Javascript and C as well. I built this site using a simple DigitalOcean droplet, Python's Pelican library for static site generation and Ansible to automate the deployment of the site. Some of my hobbies include homebrewing, playing the guitar and clarinet and travelling.
+
 
 ## Resume
 
@@ -11,15 +11,13 @@ in Ruby, Javascript and C.
 ##### January 2013 - Present
 
 #### Operations Engineer
-* Providing levels one and two triage and technical support to more than thirty brokerages worldwide within the software as a service (SaaS) technology model; effectively troubleshooting a variety of trade application, technology and web interface issues, escalating to level three as required.
-* Present weekly operations report on client upgrades, operational protocols and support issues to top-level executives.
-* Onboarding client servers to configuration management tools to automate full stack application deployments and upgrades.
+* Wrote Ping CRM system using Python and the Django Framework.
+* Designed a REST API wrapper in Python for clients to query and manipulate settings.
+* Automating daily operations tasks using Python and Powershell.
 * Deploying open source (MySQL, PostgreSQL, stunnel, etc.) and commercial tools on servers in Equinix NY4, Amazon AWS.
-* Overseeing and administering all end of day processes, ensuring client requests and server changes are executed correctly and efficiently.
-* Productively contributing to the company knowledge base in wiki format, writing technology articles on new methods and findings from weekly research using Confluence.
-* Automating daily operations tasks using Python and Powershell including XML manipulation, remote server tasks and log research using a variety of open source tools to reduce operational risks.
-* Consistently closing the most client support tickets in Jira on a weekly basis.
-Analyzed company wiki site, gathered all relevant client and product information, converted results to a fully functional, normalized database using PostgreSQL and designed a web-based enterprise solution prototype using Python and the Django web framework.
+* Setup and manage alerts on OpsView, Nagios to ensure 100% uptime across all development, demo and production servers.
+* Providing level two triage technical support to more than 100 brokerages worldwide.
+* Present weekly operations report on client upgrades, operational protocols and support issues to top-level executives.
 
 #### Quality Assurance Engineer
 * Writing functional test suites with Selenium and Python to run against a proprietary financial reporting system.
@@ -29,14 +27,13 @@ Analyzed company wiki site, gathered all relevant client and product information
 ### Peregrine Financial Group
 ##### April 2006-July 2012
 
-#### Back Office Coordinator
-* Work across a broad range of execution platforms, direct institutional banking and third party treasury systems to produce technological solutions to key reporting and trade flow issues.
-* Actively audited operations and business processes, created documentation and collaborated closely with IT to automate work flows.
-* Cultivate relationships between institutional customers, trading desks and five prime brokerage organizations to expand revenue potential and exceed profitability expectations.
-
-#### Operations Analyst
-* Corresponded with over two thousand domestic and international customers to resolve technology, trade, reporting  and cash flow issues in a timely manner for six trading applications.
-* Liaised with a diverse group of divisions to identify and resolve key issues regarding compliance, technology solutions, trade disputes, business development, policies and procedures.
-* Developed testing procedures to ensure integrity of data flow across multiple trading applications, institutional treasury systems, databases and virtual network infrastructures.
-* Successfully assisted in integrating six online trading products and one back office system into a proprietary trading environment by acting as product knowledge lead to IT, internal sales and customer service.
-* Translated business requirements into key performance indicators and created dynamic spreadsheets and reports to determine product performance.
+#### Operations Engineer
+* Evaluated potential software products based on new and existing system development and migration requirements.
+* Monitored and updated back-end data by inter-communicating between back office systems.
+* Identified and suggested new technologies and tools for enhancing product value and increasing team productivity.
+* Handled all incoming business and client requests for information.
+* Maintained computer and physical filing systems.
+* Conducted research to address customer concerns.
+* Provided base level IT support to non-technical personnel within the business.
+* Managed call flow and responded to technical support needs of customers.
+* Resolved customer issues in a clear, courteous and straightforward manner.
